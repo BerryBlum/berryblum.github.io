@@ -13,33 +13,41 @@ body{
 .my_name p{
     font-size: medium;
     text-align: center;
+    color: azure
 }
 
 .acquired_skills{
     text-align: left;
+    color: azure
 
 }
 
 .prior_experience{
     text-align: left;
+    color: azure
 }
 
 .computer_related{
     text-align: left;
+    color: azure
 }
 
 .automotive{
     text-align: left;
+    color: azure
 }
 
 .automotive .tooltip{
     position: relative;
+    color: azure
 }
 
 .automotive .tooltip .tooltiptext{
     visibility: hidden;
+    color: azure
 }
 
 .automotive .tooltip:hover .tooltiptext{
     visibility: visible;
+    color: azure
 }
