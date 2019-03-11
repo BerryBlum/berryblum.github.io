@@ -29,6 +29,16 @@ ul.prior_experience{
     text-align: left;
 }
 
+.computer_related .tooltip{
+    position: relative;
+}
+.computer_related .tooltip .tooltiptext{
+    visibility: hidden;
+}
+.computer_related .tooltip:hover .tooltiptext{
+    visibility: visible
+}
+
 .automotive{
     text-align: left;
 }
