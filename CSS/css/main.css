@@ -2,40 +2,73 @@ body{
     background-color: whitesmoke;
 }
 
-.my_name h1{
+.my-name h1{
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
+    position: center;
 }
 
-.my_name p{
+.saying{
+    border-bottom-style: groove;
     font-size: medium;
+    font-family: ('Franklin Gothic Medium', 'Arial Narrow', 'Arial');
     text-align: center;
 }
 
-h6{
+.acquired-skills{
+    text-align: left;
+    border: solid;
+}
+
+.acquired-skills h6{
     text-align: center;
     font-size: medium;
 }
 
-.acquired_skills{
+ul.traits{
+    border: solid;
+    text-align: center;
+}
+
+.work-experience:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.character{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul.prior-experience{
     text-align: left;
 }
 
-ul.prior_experience{
+.C-based{
+    font-family: 'Times New Roman', Times, serif
+}
+
+.python{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.database{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.framework{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.computer-related{
     text-align: left;
 }
 
-.computer_related{
-    text-align: left;
-}
-
-.computer_related .tooltip{
+.computer-related .tooltip{
     position: relative;
 }
-.computer_related .tooltip .tooltiptext{
+.computer-related .tooltip .tooltiptext{
     visibility: hidden;
 }
-.computer_related .tooltip:hover .tooltiptext{
+.computer-related .tooltip:hover .tooltiptext{
     visibility: visible
 }
 
@@ -45,6 +78,13 @@ ul.prior_experience{
 
 .automotive .tooltip{
     position: relative;
+}
+
+.raider{
+    background-image: src;
+}
+.camaro{
+    background-image: src;
 }
 
 .automotive .tooltip .tooltiptext{
