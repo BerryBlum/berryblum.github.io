@@ -9,7 +9,7 @@ body{
     text-align: center;
 }
 
-.saying{
+.my-name p{
     border-bottom-style: groove;
     font-size: medium;
     font-family: ('Franklin Gothic Medium', 'Arial Narrow', 'Arial');
@@ -20,7 +20,7 @@ body{
     text-align: left;
 }
 
-.acquired-skills h6{
+.acquired-skills h3{
     text-align: left;
     font-size: medium;
 }
