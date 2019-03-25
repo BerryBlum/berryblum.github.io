@@ -1,23 +1,23 @@
 body{
-    background-color: whitesmoke;
+    background-color: #282828;
+    color: darkgrey;
 }
 
 .my-name h1{
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
-    position: center;
+    text-align: center;
 }
 
 .saying{
     border-bottom-style: groove;
     font-size: medium;
     font-family: ('Franklin Gothic Medium', 'Arial Narrow', 'Arial');
-    text-align: center;
+    text-align: left;
 }
 
 .acquired-skills{
     text-align: left;
-    border: solid;
 }
 
 .acquired-skills h6{
@@ -31,7 +31,7 @@ ul.traits{
 }
 
 .work-experience:hover{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .character{
@@ -43,7 +43,7 @@ ul.prior-experience{
 }
 
 .C-based{
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .python{
@@ -51,11 +51,11 @@ ul.prior-experience{
 }
 
 .database{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .framework{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .computer-related{
@@ -69,7 +69,7 @@ ul.prior-experience{
     visibility: hidden;
 }
 .computer-related .tooltip:hover .tooltiptext{
-    visibility: visible
+    visibility: visible;
 }
 
 .automotive{
