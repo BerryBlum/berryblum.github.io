@@ -17,7 +17,7 @@ body{
 
 .acquired-skills{
     border-left-style:dashed;
-    text-align: left;
+    text-align: center;
 }
 
 .acquired-skills h3{
@@ -41,12 +41,12 @@ ol.prior-experience{
 }
 
 .automotive{
-    position: relative;
+    
 }
 
 .raider{
-    background-image: src;
+
 }
 .camaro{
-    background-image: src;
+    
 }
