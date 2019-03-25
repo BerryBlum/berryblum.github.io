@@ -15,15 +15,18 @@ body{
     font-size:medium;
 }
 
+.general{
+}
+
 .acquired-skills{
     border-left-style:dashed;
     border-right-style:dashed;
     border-color:grey;
-    text-align:Left;
 }
 
 .acquired-skills h3{
     font-size:larger;
+    text-anchor:middle;
 }
 
 ol.traits{
@@ -34,8 +37,8 @@ ol.prior-experience{
     
 }
 
-.container .coding{
-    text-align:center;
+.coding .acquired-skills{
+    text-anchor:initial;
 }
 
 .container .other h3{
