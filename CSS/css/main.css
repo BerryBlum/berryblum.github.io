@@ -1,27 +1,29 @@
 body{
-    background-color: #282828;
-    color: darkgrey;
+    background-color:#282828;
+    color:darkgrey;
 }
 
 .my-name{
     text-align:center;
 }
 .my-name h1{
-    font-size: larger;
+    font-size:larger;
 }
 
 .my-name p{
-    border-bottom-style: groove;
-    font-size: medium;
+    border-bottom-style:groove;
+    font-size:medium;
 }
 
 .acquired-skills{
     border-left-style:dashed;
-    text-align: center;
+    border-right-style:dashed;
+    border-color:grey;
+    text-align:center;
 }
 
 .acquired-skills h3{
-    font-size: medium;
+    font-size:medium;
 }
 
 ol.traits{
@@ -33,20 +35,22 @@ ol.prior-experience{
 }
 
 .container .coding{
-    text-align: left;
+    text-align:center;
 }
 
-.container .other{
-    text-align: left;
+.container .other h3{
+    text-align:center;
 }
 
 .automotive{
-    
+    color:black;
+    text-align:left;
 }
 
 .raider{
 
 }
+
 .camaro{
     
 }
