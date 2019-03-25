@@ -16,6 +16,7 @@ body{
 }
 
 .general{
+    margin:auto;
 }
 
 .acquired-skills{
@@ -41,8 +42,13 @@ ol.prior-experience{
     text-anchor:initial;
 }
 
-.container .other h3{
+.container .coding h3{
     text-align:center;
+}
+
+.container .coding h5{
+    text-align:left;
+    margin-top: 5px;
 }
 
 .automotive{
