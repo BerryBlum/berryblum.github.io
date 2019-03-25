@@ -16,35 +16,24 @@ body{
 }
 
 .acquired-skills{
+    border-left-style:dashed;
     text-align: left;
 }
 
 .acquired-skills h3{
-    text-align: left;
     font-size: medium;
 }
 
 ol.traits{
-    border: solid;
-    text-align: left;
+
 }
 
 ol.prior-experience{
-    text-align: left;
+    
 }
 
 .container .coding{
     text-align: left;
-}
-
-.computer-related .tooltip{
-    position: relative;
-}
-.computer-related .tooltip .tooltiptext{
-    visibility: hidden;
-}
-.computer-related .tooltip:hover .tooltiptext{
-    visibility: visible;
 }
 
 .container .other{
@@ -60,12 +49,4 @@ ol.prior-experience{
 }
 .camaro{
     background-image: src;
-}
-
-.automotive .tooltip .tooltiptext{
-    visibility: hidden;
-}
-
-.automotive .tooltip:hover .tooltiptext{
-    visibility: visible;
 }
