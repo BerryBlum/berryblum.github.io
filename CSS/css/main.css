@@ -24,24 +24,16 @@ body{
     font-size: medium;
 }
 
-ul.traits{
+ol.traits{
     border: solid;
     text-align: left;
 }
 
-.work-experience:hover{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.character{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-ul.prior-experience{
+ol.prior-experience{
     text-align: left;
 }
 
-.computer-related{
+.container .coding{
     text-align: left;
 }
 
@@ -55,11 +47,11 @@ ul.prior-experience{
     visibility: visible;
 }
 
-.automotive{
+.container .other{
     text-align: left;
 }
 
-.automotive .tooltip{
+.automotive{
     position: relative;
 }
 
