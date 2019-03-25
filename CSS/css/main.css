@@ -19,11 +19,11 @@ body{
     border-left-style:dashed;
     border-right-style:dashed;
     border-color:grey;
-    text-align:center;
+    text-align:Left;
 }
 
 .acquired-skills h3{
-    font-size:medium;
+    font-size:larger;
 }
 
 ol.traits{
@@ -43,7 +43,6 @@ ol.prior-experience{
 }
 
 .automotive{
-    color:black;
     text-align:left;
 }
 
