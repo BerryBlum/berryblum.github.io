@@ -27,7 +27,7 @@ body{
 
 .acquired-skills h3{
     font-size:larger;
-    text-anchor:middle;
+    text-align:center;
 }
 
 ol.traits{
@@ -38,15 +38,12 @@ ol.prior-experience{
     
 }
 
-.coding .acquired-skills{
-    text-anchor:initial;
-}
 
 .container .coding h3{
     text-align:center;
 }
 
-.container .coding h5{
+.computer-related h5{
     text-align:left;
     margin-top: 5px;
 }
